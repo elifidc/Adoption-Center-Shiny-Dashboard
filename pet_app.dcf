@@ -1,0 +1,12 @@
+name: pet_app
+title: pet_app
+username: elifidc
+account: elifidc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14804690
+bundleId: 10322528
+url: https://elifidc.shinyapps.io/pet_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: Final_Shelter_App
+title: pet_app
+username: elifidc
+account: elifidc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14804726
+bundleId: 10325989
+url: https://elifidc.shinyapps.io/Final_Shelter_App/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
